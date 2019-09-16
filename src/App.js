@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload sanket nagare deploy single page website.
+          Edit <code>src/App.js</code> and save to reload sanketnagre single page website using amplify.
         </p>
         <a
           className="App-link"
